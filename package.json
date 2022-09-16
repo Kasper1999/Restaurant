@@ -6,7 +6,7 @@
   "author": "Lena <lenach241@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "browser-sync": "^2.23.6"
   },
   "devDependencies": {
